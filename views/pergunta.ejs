@@ -1,0 +1,16 @@
+<%- include ('partials/header.ejs') %>
+
+<body>
+    <%- include ('partials/navbar.ejs') %>
+
+    <div class="container">
+        <a href="/"><button class="btn btn-primary">Voltar</button></a>
+        <hr>
+        <h2><%= pergunta.titulo %></h2>
+        <p><%= pergunta.descricao %></p>
+        <hr>
+    </div>
+    
+</body>
+
+<%- include ('partials/footer.ejs') %>
