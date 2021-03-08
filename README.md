@@ -5,9 +5,9 @@ Criamos um projeto no estilo do StackOverflow onde pessoas com suas dúvidas pod
 Como iniciar o projeto:
 
 - Clone o repositório;
-- NMP init - para baixar a dependências;
-- Rode o banco de dados mysql, lembrando de criar sempre a tabela "guiaperguntas";
-- Rode o arquivo "index.js";
+- NMP install - para baixar a dependências;
+- Execute o banco de dados mysql, lembrando de criar sempre a tabela "guiaperguntas";
+- Execute o arquivo "index.js";
 - Acesse o seu localhost na porta que está no programa.
 
 ![image](https://user-images.githubusercontent.com/51060912/106387558-122d7280-63b9-11eb-8f70-37114f0a9d57.png)
